@@ -1,0 +1,30 @@
+{
+    "id": "restaurants-catalogue-pwa-1",
+    "start_url": "./index.html",
+    "name": "Kuliner Nusantara",
+    "short_name": "KN",
+    "description": "Jelajahi Kelezatan Nusantara di Setiap Gigitan",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#E64848",
+    "icons": [
+      {
+        "src": "/icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-384x384.png",
+        "sizes": "384x384",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ]
+  }
